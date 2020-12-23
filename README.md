@@ -1,2 +1,2 @@
 # InnerSlice
-Website
+Main page
